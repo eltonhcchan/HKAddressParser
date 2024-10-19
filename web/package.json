@@ -12,11 +12,11 @@
   "dependencies": {
     "@turf/turf": "^5.1.6",
     "@vue/cli-plugin-babel": "^3.0.5",
-    "@vue/cli-plugin-eslint": "^3.0.5",
+    "@vue/cli-plugin-eslint": "^5.0.8",
     "@vue/cli-service": "^3.0.5",
     "async": "^2.6.1",
     "hk-address-parser-lib": "^0.3.1",
-    "http-server": "^0.11.1",
+    "http-server": "^14.1.1",
     "ol": "^5.3.0",
     "proj4": "^2.5.0",
     "stylus": "^0.54.5",
@@ -44,7 +44,7 @@
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^5.0.0-beta.4",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "sinon": "^7.2.3"
   },
   "postcss": {
